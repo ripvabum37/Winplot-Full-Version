@@ -269,4 +269,4 @@ This repository serves as the official landing page for WinPlot. The software is
 **Get the most recent version of WinPlot today!**
 
 ---
-**Last updated:** 2026-10-07 20:21:24 UTC
+**Last updated:** 2026-10-08 00:37:19 UTC
